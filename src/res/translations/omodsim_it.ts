@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="it_IT">
-<context>
+    <extra-po-header-language_team>bovirus@gmail.com</extra-po-header-language_team>
+    <extra-po-header-project_id_version>OpenModSIM - IT - 19.10.2026</extra-po-header-project_id_version><context>
     <name>AddressBaseComboBox</name>
     <message>
         <location filename="../../controls/addressbasecombobox.cpp" line="21"/>
