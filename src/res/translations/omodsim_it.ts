@@ -2591,6 +2591,16 @@ Server.onChange(deviceId, Register.Holding, indirizzo, (valore)=&gt;
         <translation>Ritardo Rnd %1ms</translation>
     </message>
     <message>
+        <location filename="../../controls/mainstatusbar.cpp" line="261"/>
+        <source>Sniffer Mode</source>
+        <translation>Modo sniffer</translation>
+    </message>
+    <message>
+        <location filename="../../controls/mainstatusbar.cpp" line="262"/>
+        <source>Serial RTU ports only listen to the bus and do not respond</source>
+        <translation>Le porte seriali RTU ascoltano solo il bus e non rispondono</translation>
+    </message>
+    <message>
         <location filename="../../controls/mainstatusbar.cpp" line="242"/>
         <source>Clients: %1</source>
         <translation>Client: %1</translation>
@@ -2794,6 +2804,16 @@ Vuoi aprire la pagina di download?</translation>
         <location filename="../../mainwindow.ui" line="426"/>
         <source>Cascade</source>
         <translation>Cascata</translation>
+    </message>
+    <message>
+        <location filename="../../mainwindow.ui" line="437"/>
+        <source>Sniffer Mode</source>
+        <translation>Modo sniffer</translation>
+    </message>
+    <message>
+        <location filename="../../mainwindow.ui" line="440"/>
+        <source>Sniffer mode: show all Modbus RTU traffic on serial ports without responding</source>
+        <translation>Modalità sniffer: visualizza tutto il traffico RTU Modbus sulle porte seriali senza rispondere</translation>
     </message>
     <message>
         <location filename="../../mainwindow.ui" line="431"/>
